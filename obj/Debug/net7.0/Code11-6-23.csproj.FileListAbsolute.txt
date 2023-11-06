@@ -1,0 +1,14 @@
+C:\Users\Chayu\OneDrive\Desktop\Code11-6-23\bin\Debug\net7.0\Code11-6-23.exe
+C:\Users\Chayu\OneDrive\Desktop\Code11-6-23\bin\Debug\net7.0\Code11-6-23.deps.json
+C:\Users\Chayu\OneDrive\Desktop\Code11-6-23\bin\Debug\net7.0\Code11-6-23.runtimeconfig.json
+C:\Users\Chayu\OneDrive\Desktop\Code11-6-23\bin\Debug\net7.0\Code11-6-23.dll
+C:\Users\Chayu\OneDrive\Desktop\Code11-6-23\bin\Debug\net7.0\Code11-6-23.pdb
+C:\Users\Chayu\OneDrive\Desktop\Code11-6-23\obj\Debug\net7.0\Code11-6-23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chayu\OneDrive\Desktop\Code11-6-23\obj\Debug\net7.0\Code11-6-23.AssemblyInfoInputs.cache
+C:\Users\Chayu\OneDrive\Desktop\Code11-6-23\obj\Debug\net7.0\Code11-6-23.AssemblyInfo.cs
+C:\Users\Chayu\OneDrive\Desktop\Code11-6-23\obj\Debug\net7.0\Code11-6-23.csproj.CoreCompileInputs.cache
+C:\Users\Chayu\OneDrive\Desktop\Code11-6-23\obj\Debug\net7.0\Code11-6-23.dll
+C:\Users\Chayu\OneDrive\Desktop\Code11-6-23\obj\Debug\net7.0\refint\Code11-6-23.dll
+C:\Users\Chayu\OneDrive\Desktop\Code11-6-23\obj\Debug\net7.0\Code11-6-23.pdb
+C:\Users\Chayu\OneDrive\Desktop\Code11-6-23\obj\Debug\net7.0\Code11-6-23.genruntimeconfig.cache
+C:\Users\Chayu\OneDrive\Desktop\Code11-6-23\obj\Debug\net7.0\ref\Code11-6-23.dll
